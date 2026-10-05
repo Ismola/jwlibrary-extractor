@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.jwlibrary
+*.db
+*.db-*
+*_extraido/
+resultados/
+extracciones/
+.DS_Store
